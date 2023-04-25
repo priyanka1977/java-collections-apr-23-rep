@@ -1,0 +1,7 @@
+INDEX VERSION 1.131+D:\projects\Year-2023\Apr'23\Java Collections\codews\.metadata\.plugins\org.eclipse.jdt.core
+2429945472.index
+3283543852.index
+1817256506.index
+1646561272.index
+864519809.index
+1118456095.index

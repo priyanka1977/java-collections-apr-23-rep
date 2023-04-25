@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.training.example.java.dbutil.java&apos; to &apos;DBUtil.java&apos;&#x0D;&#x0A;- Original project: &apos;student-db-java-app&apos;&#x0D;&#x0A;- Original element: &apos;com.training.example.java.dbutil.java&apos;&#x0D;&#x0A;- Renamed element: &apos;com.training.example.java.DBUtil.java&apos;" description="Rename compilation unit &apos;dbutil.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.training.example.java{dbutil.java" name="DBUtil.java" references="false" stamp="1681891865407" version="1.0"/>
+</session>
