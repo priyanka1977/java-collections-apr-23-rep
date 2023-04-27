@@ -1,0 +1,86 @@
+   List<Employee> listEmployees = new ArrayList<Employee>();
+ 
+        listEmployees.add(new Employee("Tom", "Developer", 45, 80000));
+        listEmployees.add(new Employee("Sam", "Designer", 30, 75000));
+        listEmployees.add(new Employee("Bob", "Designer", 45, 134000));
+        listEmployees.add(new Employee("Peter", "Programmer", 25, 60000));
+        listEmployees.add(new Employee("Tim", "Designer", 45, 130000));
+        listEmployees.add(new Employee("Craig", "Programmer", 30, 52000));
+        listEmployees.add(new Employee("Anne", "Programmer", 25, 51000));
+        listEmployees.add(new Employee("Alex", "Designer", 30, 120000));
+        listEmployees.add(new Employee("Bill", "Programmer", 22, 30000));
+        listEmployees.add(new Employee("Samuel", "Developer", 28, 80000));
+        listEmployees.add(new Employee("John", "Developer", 35, 67000));
+        listEmployees.add(new Employee("Patrick", "Developer", 35, 140000));
+        listEmployees.add(new Employee("Alice", "Programmer", 35, 80000));
+        listEmployees.add(new Employee("David", "Developer", 35, 99000));
+        listEmployees.add(new Employee("Jane", "Designer", 30, 82000));
+        
+        
+        
+  public class Employee {
+    private String name;
+    private String jobTitle;
+    private int age;
+    private int salary;
+    // getter and setter
+    // constructor
+    // toString()
+    
+    }
+    
+    1. List of Employee, I want write a code that can help me to sort list based on age / salary / name.
+    
+    2. I want to sort on first Age and then sub sorting on salary
+    
+    
+    SQL - SELECT *
+          FROM employee
+          Order By age, salary
+    
+    
+    
+    
+    Employee class implements Comparable
+    
+       - int compareTo(Object obj1) // return 0, 1 , -1
+       
+  if s1 > s2, it returns positive number  
+  if s1 < s2, it returns negative number  
+ if s1 == s2, it returns 0  
+ 
+ 
+ 
+ Sort of elements - re-arranging the elements based on the comparison
+ 
+  Collections Class - sort(collection) or sort(collection, Comparator Object)
+  
+    sort(logic to arrange elements in the collections)
+    
+          Sort requirement - how to compare the two objects?
+          
+          List [3, 6, 1, 8, 2] - [1, 2, 3, 6, 8]
+ 
+        Two compare objects for sorting
+        
+           - Comparable Interface - used to perform natural ordering based on comparing two object on one properties
+             used for internal ordering
+              int CompareTo(T object)
+           - Comparator Interface - 
+ 
+ 
+ 
+   Employee class with properties - id, name, age , salary
+   
+   compareTo(Object o)  
+   
+   
+ 
+ 
+ 
+ 
+ 
+    
+    
+    
+    

@@ -41,8 +41,46 @@
     
     
     
+    Employee class implements Comparable
     
+       - int compareTo(Object obj1) // return 0, 1 , -1
+       
+  if s1 > s2, it returns positive number  
+  if s1 < s2, it returns negative number  
+ if s1 == s2, it returns 0  
+ 
+ 
+ 
+ Sort of elements - re-arranging the elements based on the comparison
+ 
+  Collections Class - sort(collection) or sort(collection, Comparator Object)
+  
+    sort(logic to arrange elements in the collections)
     
+          Sort requirement - how to compare the two objects?
+          
+          List [3, 6, 1, 8, 2] - [1, 2, 3, 6, 8]
+ 
+        Two compare objects for sorting
+        
+           - Comparable Interface - used to perform natural ordering based on comparing two object on one properties
+             used for internal ordering
+              int CompareTo(T object)
+           - Comparator Interface - External ordering (any property)- 
+             Comparators can be passed to a sort method (such as Collections.sort or Arrays.sort) 
+ 
+ 
+ 
+   Employee class with properties - id, name, age , salary
+   
+   compareTo(Object o)  
+   
+   
+ 
+ 
+ 
+ 
+ 
     
     
     

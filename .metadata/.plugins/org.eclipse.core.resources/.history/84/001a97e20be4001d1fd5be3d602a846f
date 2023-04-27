@@ -1,0 +1,55 @@
+package com.training.example.java.set;
+
+import com.training.example.java.data.Employee;
+
+public class TestObjectEquality {
+	
+	public static void main(String[] args) {
+	
+		int x = 10;
+		  int y = 10;
+		  
+		  if( x == y) {
+			  System.out.println("Values are equal");
+		  }
+		  else
+		  {
+			  System.out.println("Values are not equal");
+		  }
+		  
+		
+		  System.out.println("========================================");
+		  Employee employee1 = new Employee("Tom", "Developer", 45, 80000);
+		  Employee employee2 = new Employee("Tom", "Developer", 45, 80000);
+		  
+		 /* if ( employee1 == employee2) {
+			  System.out.println("Objects are equal as they have same reference");
+		  }
+		  else
+			  System.out.println("Objects are not equal they have different reference");
+		*/
+		 
+		  // Two compare two objects data, we can use equals() method
+		  // // answer - default implementation of equals() method from Object class is that it compares the references (==)
+		  if ( employee1.equals(employee2))
+			  System.out.println("Objects are equal"); 
+		  else
+			  System.out.println("Objects are not equal");  // answer
+		  
+		  System.out.println("================================================");
+		  System.out.println("Comapring employee3 with employee 2 on data");
+		  Employee employee3 = employee2; 
+		  
+		  if ( employee2.equals(employee3))
+			  System.out.println("Objects are equal"); 
+		  else
+			  System.out.println("Objects are not equal"); 
+		  
+		  
+		  
+		  
+		  
+	}
+  
+
+}
