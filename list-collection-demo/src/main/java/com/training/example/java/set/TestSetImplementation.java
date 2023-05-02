@@ -1,0 +1,39 @@
+package com.training.example.java.set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestSetImplementation {
+	
+	public static void main(String[] args) {
+		
+		// string class implements equals as well as hashcode
+		Set<String> cities = new HashSet<String>();
+		
+		// In case of object already present in the collection, then add() will return false.
+		cities.add("mumbai"); // calls equals and hashcode
+		
+		cities.add("mumbai");
+		
+		cities.add("hyderabad");
+		
+		cities.add("bangaluru");
+		
+		cities.add("mumbai");
+		
+		cities.add("kolkata");
+		
+		cities.add("mumbai");
+		
+		
+		System.out.println("set - " + cities);
+		
+		// retrieve a particular object
+		
+		boolean result = cities.contains("mumbai");
+		System.out.println("contains - " + result);
+		
+		cities.forEach((String str) -> System.out.println(str));
+	}
+
+}

@@ -50,10 +50,10 @@ public class Employee implements Comparable<Employee>{
 		this.salary = salary;
 	}
 
-	@Override
+	/*@Override
 	public String toString() {
 		return "Employee [name=" + name + ", jobTitle=" + jobTitle + ", age=" + age + ", salary=" + salary + "]";
-	}
+	}*/
 
 	// business method
 

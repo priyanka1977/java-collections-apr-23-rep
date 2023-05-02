@@ -92,7 +92,7 @@ Retrieval mechanism:
 
 ===================================================================
 
-Collection Types : Define the contract of the collection - List - Data to be added in specific order, data can be duplicated, null data are allowed - Set - order does not matters (unordered) , duplicates not allowed - Map - retrieved / stored based on Key-Values - Queue - FIFO
+Collection Types : Define the contract/ specification of the collection - List - Data to be added in specific order, data can be duplicated, null data are allowed - Set - order does not matters (unordered) , duplicates not allowed - Map - retrieved / stored based on Key-Values - Queue - FIFO
 
 Implementations of these types:
 How it will actually work?
@@ -102,6 +102,11 @@ How it will actually work?
   List (I)
 
   - - ArrayList (C) , LinkedList (C), Vectors, Stack
+
+    ArrayList - index (0,1,2) - Object get(index)
+    add a new element on index 0 location
+
+    LinkedList - elements are added at beginning or middle or end
 
   Set (I)
 

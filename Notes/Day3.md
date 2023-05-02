@@ -10,7 +10,7 @@ Java 1.5 = GENERICS makes collection specific, inform the compiler to do type-sa
 
 List - default behavior of list is mutability (modify the elements)
 
-     How to make a list immutable (once element added in the list, it cannot be modified)
+How to make a list immutable (once element added in the list, it cannot be modified)
 
 =============================================================================
 ClassCastException - that can occur when you try to improperly convert a class from one type to another ..It is an unchecked exception.

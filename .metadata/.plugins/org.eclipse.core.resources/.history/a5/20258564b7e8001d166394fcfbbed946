@@ -1,0 +1,19 @@
+package com.training.example.java.set;
+
+import com.training.example.java.data.Employee;
+
+public class TestHashCodeOfObjects {
+
+	
+	public static void main(String[] args) {
+		
+		  Employee employee1 = new Employee("Tom", "Developer", 45, 80000);
+		  Employee employee2 = new Employee("Tom", "Developer", 45, 80000);
+		  
+		  System.out.println("HashCode of employee1 - " +  employee1.hashCode()); // int value
+		  System.out.println("HashCode of employee2 - " + employee2.hashCode()); // int value 
+		
+		  System.out.println("reference of employee1 - " + employee1);
+		  System.out.println("reference of employee2 - " + employee2);
+	}
+}

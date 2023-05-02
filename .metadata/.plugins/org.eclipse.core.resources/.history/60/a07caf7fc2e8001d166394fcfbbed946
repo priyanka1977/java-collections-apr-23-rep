@@ -1,0 +1,13 @@
+package com.training.example.java.set;
+
+import java.util.Set;
+import java.util.TreeSet;
+
+public class TestStudentBehaviorTreeSet {
+
+	public static void main(String[] args) {
+
+		Set<Student> students = new TreeSet<Student>();
+		
+	}
+}

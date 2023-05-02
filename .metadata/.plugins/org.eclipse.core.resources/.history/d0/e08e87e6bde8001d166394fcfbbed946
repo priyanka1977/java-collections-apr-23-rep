@@ -1,0 +1,32 @@
+package com.training.example.java.set;
+
+import java.util.HashSet;
+import java.util.Set;
+
+public class TestSetImplementation {
+	
+	public static void main(String[] args) {
+		
+		Set<String> cities = new HashSet<String>();
+		
+		// In case of object already present in the collection, then add() will return false.
+		cities.add("mumbai");
+		
+		cities.add("mumbai");
+		
+		cities.add("hyderabad");
+		
+		cities.add("bangaluru");
+		
+		cities.add("mumbai");
+		
+		cities.add("kolkata");
+		
+		cities.add("mumbai");
+		
+		
+		System.out.println("set - " + cities);
+		
+	}
+
+}

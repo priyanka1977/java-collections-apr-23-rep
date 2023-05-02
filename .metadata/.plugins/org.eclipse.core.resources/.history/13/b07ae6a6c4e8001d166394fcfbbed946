@@ -1,0 +1,14 @@
+package com.training.example.java.set;
+
+import java.util.HashMap;
+
+public class TestMap {
+
+	public static void main(String[] args) {
+		
+		HashMap<String, Student> studentMap = new HashMap<K, V>();
+		
+		
+		
+	}
+}

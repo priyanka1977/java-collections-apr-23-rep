@@ -596,3 +596,217 @@
 2023-04-26 14:04:22,916 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
 2023-04-26 14:04:22,916 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-04-26 14:04:22,916 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 11:57:41,316 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2023-05-02 11:57:42,210 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Updating Gradle version information cache failed. Using outdated cache.
+2023-05-02 12:00:25,412 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:00:25,417 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:00:25,419 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:00:25,419 [Worker-18: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:00:31,334 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:00:31,334 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:00:31,336 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:00:31,336 [Worker-22: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:28:41,027 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:28:41,027 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:28:41,064 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:28:41,065 [Worker-28: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:30:05,334 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:30:05,334 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:30:05,335 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:30:05,335 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:31:06,185 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:31:06,185 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:31:06,186 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:31:06,186 [Worker-33: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:31:10,243 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:31:10,244 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:31:10,245 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:31:10,245 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:32:10,390 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:32:10,390 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:32:10,391 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:32:10,392 [Worker-31: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 12:33:08,199 [Worker-31: Launching TestHashCodeOfObjects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:33:08,200 [Worker-31: Launching TestHashCodeOfObjects] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 12:33:08,202 [Worker-31: Launching TestHashCodeOfObjects] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 12:33:08,203 [Worker-31: Launching TestHashCodeOfObjects] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:10:47,648 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:10:47,649 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:10:47,650 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:10:47,650 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:11:09,282 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:11:09,282 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:11:09,284 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:11:09,284 [Worker-51: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:16:49,095 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:16:49,095 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:16:49,096 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:16:49,096 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:17:06,094 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:17:06,096 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:17:06,096 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:17:06,096 [Worker-54: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:19:43,294 [Worker-59: Launching TestSetImplementation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:19:43,295 [Worker-59: Launching TestSetImplementation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:19:43,295 [Worker-59: Launching TestSetImplementation] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:19:43,296 [Worker-59: Launching TestSetImplementation] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:20:26,458 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:20:26,458 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:20:26,459 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:20:26,459 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:21:02,305 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:02,305 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:21:02,306 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:02,306 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:21:08,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:08,473 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:21:08,475 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:08,475 [Worker-48: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:21:26,390 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:26,390 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:21:26,392 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:21:26,392 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:23:20,338 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:23:20,338 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:23:20,339 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:23:20,339 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:23:52,718 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:23:52,718 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:23:52,719 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:23:52,719 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:24:23,434 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:24:23,434 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:24:23,435 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:24:23,435 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:26:37,414 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:26:37,414 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:26:37,415 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:26:37,415 [Worker-59: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:27:01,632 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:27:01,632 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:27:01,633 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:27:01,633 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:30:35,371 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:30:35,371 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:30:35,372 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:30:35,373 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:32:01,582 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:32:01,582 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:32:01,583 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:32:01,583 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:32:19,314 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:32:19,314 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:32:19,317 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:32:19,317 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:33:18,167 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:33:18,167 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:33:18,169 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:33:18,169 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:33:34,651 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:33:34,651 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:33:34,652 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:33:34,652 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:34:40,067 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:34:40,068 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:34:40,069 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:34:40,069 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:36:12,749 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:36:12,750 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:36:12,751 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:36:12,751 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:37:04,932 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:37:04,933 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:37:04,934 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:37:04,934 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:39:27,855 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:27,855 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:39:27,856 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:27,856 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:39:36,618 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:36,618 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:39:36,619 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:36,620 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:39:39,801 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:39,801 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:39:39,802 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:39,802 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:39:51,329 [Worker-58: Launching TestPersonObjectBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:51,329 [Worker-58: Launching TestPersonObjectBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:39:51,330 [Worker-58: Launching TestPersonObjectBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:39:51,330 [Worker-58: Launching TestPersonObjectBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:42:34,366 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:42:34,367 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:42:34,368 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:42:34,368 [Worker-62: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:43:26,042 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:26,043 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:43:26,044 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:26,044 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:43:29,316 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:29,316 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:43:29,317 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:29,317 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:43:36,057 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:36,057 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:43:36,058 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:43:36,058 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:46:16,254 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:46:16,254 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:46:16,254 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:46:16,254 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:47:37,387 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:47:37,387 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:47:37,388 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:47:37,388 [Worker-65: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:48:18,069 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:48:18,069 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:48:18,070 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:48:18,070 [Worker-63: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:52:38,368 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:52:38,368 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:52:38,369 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:52:38,369 [Worker-68: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:53:06,174 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:53:06,174 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:53:06,175 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:53:06,175 [Worker-60: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:53:18,216 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:53:18,217 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:53:18,217 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:53:18,217 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 13:57:35,008 [Worker-67: Launching TestStudentBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:57:35,008 [Worker-67: Launching TestStudentBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 13:57:35,009 [Worker-67: Launching TestStudentBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 13:57:35,009 [Worker-67: Launching TestStudentBehaviorTreeSet] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:03:13,896 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:03:13,897 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:03:13,897 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:03:13,897 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:04:17,033 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:04:17,033 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:04:17,034 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:04:17,034 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:06:01,773 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:06:01,774 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:06:01,775 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:06:01,775 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:06:46,424 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:06:46,425 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:06:46,425 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:06:46,426 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:08:03,112 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:08:03,112 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:08:03,112 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:08:03,112 [Worker-76: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:08:54,009 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:08:54,009 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:08:54,010 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:08:54,010 [Worker-79: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:09:06,981 [Worker-79: Launching TestMap] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:09:06,981 [Worker-79: Launching TestMap] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:09:06,982 [Worker-79: Launching TestMap] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:09:06,982 [Worker-79: Launching TestMap] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
+2023-05-02 14:09:43,499 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:09:43,500 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\main\resources
+2023-05-02 14:09:43,500 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-05-02 14:09:43,500 [Worker-80: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\projects\Year-2023\Apr'23\Java Collections\codews\list-collection-demo\src\test\resources
